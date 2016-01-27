@@ -1,0 +1,14 @@
+@charset "utf-8";
+footer {
+	margin-top: 3em;
+	margin-bottom: 3em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #093;
+	border-right-color: #093;
+	border-bottom-color: #093;
+	border-left-color: #093;
+	text-align: center;
+}
